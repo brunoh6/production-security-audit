@@ -245,8 +245,4 @@ Security Engineer — AppSec & DevSecOps
 🔗 [LinkedIn](https://www.linkedin.com/in/bruno-huaman-vela-648b431a7/)
 💻 [GitHub](https://github.com/brunoh6)
 
-ISO/IEC 27001 Certified · CompTIA Security+ (in progress)
-
----
-
-*Published as a sanitized portfolio artifact. Source code and full unredacted findings are private.*
+ISO/IEC 27001 Certified
