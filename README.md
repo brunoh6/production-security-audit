@@ -2,7 +2,7 @@
 
 **A self-conducted security audit of a production system I architected and built.**
 
-17 findings scored with CVSS v3.1, classified by CWE, mapped to MITRE ATT&CK, and remediated with verified fixes.
+17 findings scored with CVSS v3.1, classified by CWE and mapped to MITRE ATT&CK. 10 of them are remediated with verified fixes, including the only High finding. The rest are documented and scheduled.
 
 ---
 
